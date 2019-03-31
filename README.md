@@ -1,0 +1,2 @@
+# BilibiliAnimationInformationSpider
+一只用于爬取哔哩哔哩视频弹幕网站的完结动画信息的小爬虫
